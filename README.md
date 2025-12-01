@@ -1,3 +1,3 @@
 # bilal-first
 This is my first repositry
-Author-Muhammad Bilal Ahmad
+Author-Muhammad Bilal Ahmad (Venture Tech)
